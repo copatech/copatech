@@ -77,11 +77,11 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <h3 align="left">My Stats:</h3><p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=copatech&show_icons=true&locale=en&layout=compact&theme=radical" alt="copatech" /></p>
+<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=copatech&show_icons=true&locale=en&layout=compact&theme=radical" alt="copatech" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=copatech&show_icons=true&locale=en&theme=radical" alt="copatech" /></p>
 
-
+--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copatech&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
