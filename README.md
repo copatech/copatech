@@ -83,7 +83,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copatech&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=copatech&theme=dark)](https://git.io/streak-stats)
 
